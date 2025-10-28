@@ -1,0 +1,2 @@
+Navigator.kt es el que se encarga de toda la nevegación del sistema
+La pantalla de incio es MainScreen (UserListScreen)

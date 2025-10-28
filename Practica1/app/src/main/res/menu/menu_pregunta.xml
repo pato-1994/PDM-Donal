@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/pregunta1"
+        android:title="¿Cuál es tu color favorito?"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pregunta2"
+        android:title="¿Cuál es tu animal favorito?"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pregunta3"
+        android:title="¿Cuál es tu comida favorita?"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pregunta4"
+        android:title="¿Cuál es tu deporte favorito?"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pregunta5"
+        android:title="¿Cuál es tu libro favorito?"
+        android:icon="@android:drawable/ic_menu_edit"
+        app:showAsAction="never" />
+</menu>

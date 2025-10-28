@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="preguntas_seguridad_array">
+        <item>Selecciona una pregunta...</item> <!-- Este es el texto del prompt inicial -->
+        <item>¿Cuál es tu color favorito?</item>
+        <item>¿Cuál es tu animal favorito?</item>
+        <item>¿Cuál es tu comida favorita?</item>
+        <item>¿Cuál es tu deporte favorito?</item>
+        <item>¿Cuál es tu libro favorito?</item>
+    </string-array>
+</resources>

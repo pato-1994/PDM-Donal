@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Juan Perez",
+    "email": "juan@ipn.mx",
+    "password": "Juan.1234-",
+    "preguntaSecre": "¿Cuál es tu color favorito?",
+    "respuestaSecre": "Azul"
+  },
+  {
+    "name": "Maria Lopez",
+    "email": "maria@ipn.mx",
+    "password": "Maria.1234",
+    "preguntaSecre": "¿Cuál es tu animal favorito?",
+    "respuestaSecre": "Perro"
+  },
+  {
+    "name": "Pedro Ramirez",
+    "email": "pedro@ipn.mx",
+    "password": "Pedro.1234",
+    "preguntaSecre": "¿Cuál es tu comida favorita?",
+    "respuestaSecre": "Pizza"
+  },
+  {
+    "name": "Ana Garcia",
+    "email": "ana@ipn.mx",
+    "password": "Ana.1234",
+    "preguntaSecre": "¿Cuál es tu deporte favorito?",
+    "respuestaSecre": "Fútbol"
+  },
+  {
+    "name": "Luis Martinez",
+    "email": "luis@ipn.mx",
+    "password": "Luis.1234",
+    "preguntaSecre": "¿Cuál es tu libro favorito?",
+    "respuestaSecre": "Cien años de soledad"
+  }
+]
